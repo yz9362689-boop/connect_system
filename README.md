@@ -1,15 +1,15 @@
-#connect_system
+#contact_system
 # Contact Management System (C)
 
-## Introduction                                                                                                                                                    
+## Introduction                                                                                                                                                                                                                                                                                                                                                        
 A simple contact management system written in C.
 
-## Features                                                                                                      
-- Add contact                                                                                                                                                                                                                                                          
-- Delete contact                                                                                                                                                                                                                                                                                                                              
-- Modify contact                                                                                                                                                                                                                                                                                      
-- Search contact                                                                                                                                                                                                                                                                      
-- Sort contact                                                                                                                                                                                                                                                                      
+## Features                                                                                                                                                                                                                                                            
+- Add contact                                                                                                                                                                                                                                                                                                                                                                                                                
+- Delete contact                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+- Modify contact                                                                                                                                                                                                                                                                                                                                                              
+- Search contact                                                                                                                                                                                                                                                                                                                  
+- Sort contact                                                                                                                                                                                                                                                                                                                  
 - Save and load from file
 
 ## How to Run
